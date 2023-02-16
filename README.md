@@ -40,19 +40,19 @@ Your function should give the following results. (Suppose TODAY = '2022-09-01')
 >>> 
 ***************************************
 
-*** programmed by IA for MSDM5002 ***
+***  programmed by IA for MSDM5002  ***
 
-*** date: 2022-09-01 ***
+***         date: 2022-09-01        ***
 
 ***---------------------------------***
 
-*** You can use it as you like, ***
+***   You can use it as you like,   ***
 
-*** but there might be many bugs. ***
+***   but there might be many bugs. ***
 
-*** If you find some bugs, please ***
+***   If you find some bugs, please ***
 
-*** send them to “ia@ust.hk” ***
+***     send them to “ia@ust.hk”    ***
 
 ***************************************
 
@@ -68,13 +68,13 @@ Your function should give the following results. (Suppose TODAY = '2022-09-01')
 
 ***------------------------------------------***
 
-*** You can use it as you like, but there ***
+***   You can use it as you like, but there  ***
 
-*** might be many bugs. If you find some ***
+***   might be many bugs. If you find some   ***
 
-*** bugs, please send them to "alice@wonde ***
+***   bugs, please send them to "alice@wonde ***
 
-*** r.land" ***
+***   r.land"                                ***
 
 ************************************************
 
