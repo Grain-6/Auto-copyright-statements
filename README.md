@@ -37,27 +37,47 @@ as much space in the second-last row as possible.
 Your function should give the following results. (Suppose TODAY = '2022-09-01')
 
 >>> my_copyright4('IA', 'ia@ust.hk')
-***************************************
-*** programmed by IA for MSDM5002 ***
-*** date: 2022-09-01 ***
-***---------------------------------***
-*** You can use it as you like, ***
-*** but there might be many bugs. ***
-*** If you find some bugs, please ***
-*** send them to “ia@ust.hk” ***
+>>> 
 ***************************************
 
->>> my_copyright4('Alice & Bob', 'alice@wonder.land',
-'2022-12-31')
+*** programmed by IA for MSDM5002 ***
+
+*** date: 2022-09-01 ***
+
+***---------------------------------***
+
+*** You can use it as you like, ***
+
+*** but there might be many bugs. ***
+
+*** If you find some bugs, please ***
+
+*** send them to “ia@ust.hk” ***
+
+***************************************
+
+
+>>> my_copyright4('Alice & Bob', 'alice@wonder.land','2022-12-31')
+
+
 ************************************************
+
 *** programmed by Alice & Bob for MSDM5002 ***
+
 *** date: 2022-12-31 ***
+
 ***------------------------------------------***
+
 *** You can use it as you like, but there ***
+
 *** might be many bugs. If you find some ***
+
 *** bugs, please send them to "alice@wonde ***
+
 *** r.land" ***
+
 ************************************************
+
 
 You can assume that the three parameters are always strings.
 
